@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Bot1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cb532db-5baa-45ac-9ea5-ab117a7259de</testCaseGuid>
+   <variable>
+      <defaultValue>'https://webchat.botframework.com/embed/PTTEP-ALFRED-PROCUREMENT-DEV?s=moiwpTlFfNw.tzV9hXLgbun2CcC62jhIQ7J_DeBJtf76JBsvuXV86pQ'</defaultValue>
+      <description></description>
+      <id>87e784eb-4fd0-4e39-a096-9878eade5145</id>
+      <masked>false</masked>
+      <name>PROCUREMENT</name>
+   </variable>
+</TestCaseEntity>
